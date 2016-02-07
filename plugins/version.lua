@@ -1,7 +1,7 @@
 do
 
   function run(msg, matches)
-    return 'No Fuzuli!!\nNo Fuzuli!!'
+    return 'magma bot'
   end
 
   return {
